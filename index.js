@@ -1,1 +1,1 @@
-module.exports = require('./lib/cf_api.js');
+module.exports = require('./lib/cf_api');

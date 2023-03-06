@@ -1,4 +1,4 @@
-const recommendations = require('../lib/cf_api.js');
+const recommendations = require('../lib/cf_api');
 
 const ratings = [
   [1, 1, 1],
